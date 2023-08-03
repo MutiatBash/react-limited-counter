@@ -1,4 +1,4 @@
-# Getting Started with the counter App
+# Getting Started with the Limited Counter App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react
 
